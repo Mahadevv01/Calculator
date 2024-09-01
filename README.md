@@ -6,13 +6,16 @@ Requirements:
 User Interface:
 
 Create a user-friendly interface with buttons for numbers (0-9) and basic operations (+, -, *, /).
+
 Include a display area to show the input and results.
+
 Functionality:
 
 Implement JavaScript functions to handle arithmetic operations.
 Handle user inputs and update the display accordingly.
 Ensure the calculator performs calculations in the correct order (consider operator precedence).
 Include a clear (C) button to reset the calculator.
+
 Styling:
 
 Use CSS to style the calculator buttons and display area.
@@ -20,6 +23,7 @@ Make the calculator responsive for different screen sizes.
 Evaluation Criteria:
 User Interface:
 A clean and intuitive design.
+
 Functionality:
 Correct implementation of arithmetic operations.
 Handling of edge cases (e.g., division by zero).
