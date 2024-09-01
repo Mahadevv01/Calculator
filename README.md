@@ -20,14 +20,20 @@ Styling:
 
 Use CSS to style the calculator buttons and display area.
 Make the calculator responsive for different screen sizes.
+
 Evaluation Criteria:
+
 User Interface:
+
 A clean and intuitive design.
 
 Functionality:
+
 Correct implementation of arithmetic operations.
 Handling of edge cases (e.g., division by zero).
+
 Responsiveness:
+
 The calculator should work well on both desktop and mobile devices.
 
 ## Project Structure
